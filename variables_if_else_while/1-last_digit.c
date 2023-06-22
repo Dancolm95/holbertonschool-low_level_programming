@@ -3,9 +3,11 @@
 #include<stdlib.h>
 
 /**
- * main - Prints a text
+ * main - 'Entry point'
  *
- * return: Always(succes)
+ * Description: Assign a random number to the variable n
+ *
+ * Return: Zero if succesful
  */
 int main(void)
 {
