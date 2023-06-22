@@ -5,7 +5,7 @@
 /**
  * main - print the number stored in the variable n is positive or negative
  *
- * return: Success
+ * return: Always(Success)
  */
 int main(void)
 {
@@ -18,13 +18,11 @@ if (n > 0)
 {
 printf("%d is positive\n", n);
 }
-
 else if (n == 0)
 {
 printf("%d is zero\n", n);
 }
-
-else(n < 0);
+else
 {
 printf("%d is negative\n", n);
 }
