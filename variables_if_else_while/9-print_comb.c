@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * Main - Print numbers with commas
+ * main - Print numbers with commas
  *
  * Return: Always(success)
  */
