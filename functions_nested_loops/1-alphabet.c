@@ -1,10 +1,10 @@
-#include<Holenerton.h>
+#include<main.h>
 /**
  * main - Starting bucle
  *
  * Description: function that prints the alphabet
  *
- * Return: zero
+ * Return: void
  */
 void print_alphabet(void)
 {
