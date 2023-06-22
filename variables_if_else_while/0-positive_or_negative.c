@@ -3,11 +3,11 @@
 #include <time.h>
 
 /**
- * main - Start Program
+ * main - Starting program
  *
- * Description: print the number stored in the variable n is positive or negative
+ * Description: Assign a random number to the variable n
  *
- * return: Always(Success)
+ * Return: zero if succesful
  */
 int main(void)
 {
