@@ -3,7 +3,9 @@
 #include <time.h>
 
 /**
- * main - print the number stored in the variable n is positive or negative
+ * main - Start Program
+ *
+ * Description: print the number stored in the variable n is positive or negative
  *
  * return: Always(Success)
  */
