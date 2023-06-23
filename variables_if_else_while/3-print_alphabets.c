@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * Main - Entry point
+ * main - Entry point
  *
  * Description: Prints the alphabetic in lower and upper case
  *
- * Return: Always (Success)
+ * Return: Zero if succesfull
  */
 int main(void)
 {
