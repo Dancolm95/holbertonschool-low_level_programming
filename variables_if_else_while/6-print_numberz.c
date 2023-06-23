@@ -1,9 +1,11 @@
 #include<stdio.h>
 
 /**
- * Main - Prints numbers since 0 to 9
+ * main - numbers of base ten
  *
- * Return:Always (Success)
+ * Description: Prints numbers of base ten startin zero
+ *
+ * Return: Zero if succesful
  */
 int main(void)
 {
