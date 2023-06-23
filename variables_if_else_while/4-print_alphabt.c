@@ -1,7 +1,9 @@
 #include<stdio.h>
 
 /**
- * Main - Prints some letters of alphabet
+ * main - Some letters of alphabet
+ *
+ * Decription: Prints the alphabet in lowercase except q and e
  *
  * Return: (Success)
  */
