@@ -1,9 +1,11 @@
 #include<stdio.h>
 
 /**
- * Main - Print hexadecimal numbers
+ * main - hexadecimal numbers
  *
- * Return: Always(success)
+ * Description: Prints all the numbers of base sixteen
+ *
+ * Return: Zero if succesful
  */
 int main(void)
 {
