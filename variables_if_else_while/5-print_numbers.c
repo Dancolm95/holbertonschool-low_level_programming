@@ -1,8 +1,10 @@
 #include<stdio.h>
 /**
- * Main - Some letters of alphabet
+ * main - Numbers of base ten
  *
- * Return: Always(Success)
+ * Description: Numbers of base ten starting from zero
+ *
+ * Return: Zero if succesful
  */
 int main(void)
 {
