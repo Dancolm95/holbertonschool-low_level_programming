@@ -1,7 +1,9 @@
 #include<stdio.h>
 
 /**
- * Main - Print the alphabet in reverse
+ * main - the alphabet
+ *
+ * Descriptión: Print the alphabet in reverse
  *
  * Return: Always(success)
  */
