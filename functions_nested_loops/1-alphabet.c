@@ -1,23 +1,19 @@
-#include<main.h>
+#include<>
+
 /**
- * main - Starting bucle
+ * print_alphabet - the alphabet
  *
- * Description: function that prints the alphabet
+ * Description: Prints the alphabet in lowercase
  *
  * Return: void
  */
 void print_alphabet(void)
 {
-char letter = 'A';
-while (letter <= 'Z')
-{
-putchar(letter);
-letter++;
+	char(c);
+	for(c = 'a';c <= 'z';c++)
+	{
+		_putchar(c);
+	}
+	_putchar('\n');
 }
-putchar('\n');
-}
-int main(void)
-{
-print_alphabet(void);
-return (0);
-}
+
