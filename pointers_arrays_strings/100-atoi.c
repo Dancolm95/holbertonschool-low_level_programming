@@ -2,30 +2,26 @@
 
 /**
  * _atoi - Function to converte string
- * @s: pointer
+ * @s: String to be converted
  *
  * Return: zero if succesful
  */
 int _atoi(char *s)
 {
-	int a, prefix;
-	unsigned int b;
+	int sign = 1;
+	unsigned int num = 0;
 
-	a = b = 0;
-	prefix = 1;
+	do {
+		if (*s == '-')
+			sign *= -1;
 
-	for (a = 0; s[a] <= '0' && s[a] != '\0'; a++)
-	{
-		if (s[a] == '-')
-			prefix = prefix * -1;
-	}
-	if (s[a] == '\0 ')
-		return (b);
+		else if (*s >= '0' && *s <= '9')
+			num = (num * 10) + (*s - '0');
 
-	for (; s[a] != '\0' && s[a] != ';'; a++)
-	{
-		if (s[a] >= '0' && s[a] <= '9' && s[a] != '\0')
-			b = b * 10 + (s[a] - '0')
-	}
-	return (b * prefix);
+		else if (num > 0)
+			break;
+
+	} while (*s++);
+
+	return (num * sign);
 }
