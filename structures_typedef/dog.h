@@ -8,5 +8,10 @@
  * @owner: dog's owner
  */
 struct dog
+{
+	char *name;
+	float age;
+	char *owner;
+};
 
 #endif /* _dog.h_ */
