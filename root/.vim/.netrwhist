@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/root/holbertonschool-low_level_programming/argc_argv'
+let g:netrw_dirhist_3='/root/holbertonschool-low_level_programming/pointers_arrays_strings'
+let g:netrw_dirhist_2='/root/holbertonschool-low_level_programming/recursion'
+let g:netrw_dirhist_1='/holbertonschool-shell/io_redirections_and_filters'
