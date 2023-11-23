@@ -36,8 +36,11 @@ This repository contains programs written for the low-level programming and algo
 
 - [@Dancolm95](https://github.com/Dancolm95)
 
-[![avatar-profile.jpg](https://i.postimg.cc/3r0Zvjs9/avatar-profile.jpg)](https://postimg.cc/8sDW8vPr)
 
+
+<p align="center">
+  <img src="(https://i.postimg.cc/3r0Zvjs9/avatar-profile.jpg)](https://postimg.cc/8sDW8vPr)="holberton">
+</p>
 
 
 
