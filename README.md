@@ -6,30 +6,30 @@ This repository contains programs written for the low-level programming and algo
 
 ## Projects 🖥️
 
-[hello_world](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/hello_world).
+°[hello_world](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/hello_world).
 
-[makefiles](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/makefiles).
+°[makefiles](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/makefiles).
 
-[function_nested_loops](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/functions_nested_loops).
+°[function_nested_loops](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/functions_nested_loops).
 
-[more_function_nested_loops](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops).
+°[more_function_nested_loops](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops).
 
-[variables_if_else_while](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/variables_if_else_while).
+°[variables_if_else_while](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/variables_if_else_while).
 
-[variadic_functions](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/variadic_functions).
+°[variadic_functions](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/variadic_functions).
 
-[function_pointers](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/function_pointers).
+°[function_pointers](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/function_pointers).
 
-[pointers_arrays_strings](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/pointers_arrays_strings).
+°[pointers_arrays_strings](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/pointers_arrays_strings).
 
 
-[recursion](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/recursion).
+°[recursion](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/recursion).
 
-[malloc_free](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/malloc_free).
+°[malloc_free](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/malloc_free).
 
-[structure_typedef](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/structures_typedef).
+°[structure_typedef](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/structures_typedef).
 
-[argc_argv](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/argc_argv).
+°[argc_argv](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/argc_argv).
 
 
 ## Authors 🖊️
