@@ -32,9 +32,11 @@ This repository contains programs written for the low-level programming and algo
 [argc_argv](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/argc_argv).
 
 
-## Authors
+## Authors 🖊️
 
 - [@Dancolm95](https://github.com/Dancolm95)
+
+![Logo Holberton](https://blog.holbertonschool.com/what-is-an-income-share-agreement/)
 
 
 
