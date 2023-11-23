@@ -4,7 +4,7 @@
 This repository contains programs written for the low-level programming and algorithm track at Holberton School. In these projects, which occurred throughout the duration of the Year 1 curriculum, I learned about data structures, algorithms, and other low-level programming concepts while working in the C language. The specific list of projects contained follows:
 
 
-## Projects 
+## Projects 🖥️
 
 [hello_world](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/hello_world).
 
@@ -31,6 +31,10 @@ This repository contains programs written for the low-level programming and algo
 
 [argc_argv](https://github.com/Dancolm95/holbertonschool-low_level_programming/tree/main/argc_argv).
 
+
+## Authors
+
+- [@Dancolm95](https://github.com/Dancolm95)
 
 
 
