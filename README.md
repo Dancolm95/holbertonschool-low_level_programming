@@ -39,7 +39,7 @@ This repository contains programs written for the low-level programming and algo
 
 
 <p align="center">
-  <img src="(https://postimg.cc/8sDW8vPr)="holberton">
+  <img src="(https://i.postimg.cc/3r0Zvjs9/avatar-profile.jpg)="holberton">
 </p>
 
 
