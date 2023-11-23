@@ -36,7 +36,7 @@ This repository contains programs written for the low-level programming and algo
 
 - [@Dancolm95](https://github.com/Dancolm95)
 
-![Logo Holberton](https://blog.holbertonschool.com/what-is-an-income-share-agreement/)
+![Logo Holberton]()
 
 
 
